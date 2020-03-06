@@ -2,9 +2,6 @@
 
 This is my new site, better laid out, and more contributions from me.
 
-
-You can use the [editor on GitHub](https://github.com/jngannon/jngannon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
 ## Research
 
 This is stuff that has been a success.
