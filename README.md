@@ -20,6 +20,10 @@ The old one made on tensorflow
 ### Sparana 
 Made without tensorflow so I can use sparse matrices, more memory control and stuff.
 
-## Blog
+### Blog
 
 An informal blog of things that I don't want to put in formal research posts.
+
+### [About me](/about/)
+
+About me 
