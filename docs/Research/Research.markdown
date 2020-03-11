@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fun Failures
-permalink: /funfailures/
+title: Research
+permalink: /research/
 ---
 # Research
 These are some projects that have been successful. 
