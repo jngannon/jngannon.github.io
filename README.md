@@ -2,7 +2,7 @@
 
 This is my new site, better laid out, and more contributions from me.
 
-## [Research](/Research)
+## [Research](/research)
 
 This is stuff that has been a success.
 
