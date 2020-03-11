@@ -6,7 +6,7 @@ This is my new site, better laid out, and more contributions from me.
 
 This is stuff that has been a success.
 
-## Projects
+## [Fun/Failed Projects](/funfailures/funfailures)
 
 This is stuff that could turn into research, stuff that has failed/not succeeded yet
 
