@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Fun Failures
 permalink: /funfailures/
 ---

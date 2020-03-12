@@ -10,6 +10,10 @@ This is stuff that has been a success.
 
 This is stuff that could turn into research, stuff that has failed/not succeeded yet
 
+## [Blog](/blog)
+
+An informal blog of things that I don't want to put in formal research posts.
+
 ## Software stuff
 
 The packages I built to help me,
@@ -19,10 +23,6 @@ The old one made on tensorflow
 
 ## Sparana 
 Made without tensorflow so I can use sparse matrices, more memory control and stuff.
-
-## Blog
-
-An informal blog of things that I don't want to put in formal research posts.
 
 ## [About me](/about)
 
