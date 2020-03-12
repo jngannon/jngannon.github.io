@@ -1,7 +1,7 @@
 ---
 layout: default
 title: My Own Software
-permalink: /blog/my_own_software
+permalink: /my_own_software/
 ---
 
 # My Own Software
