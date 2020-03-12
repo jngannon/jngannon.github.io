@@ -1,6 +1,6 @@
 # JNGANNON In development
 
-This is my new site, better laid out, and more contributions from me.
+This is my new site, better laid out, and more contributions from me. Nothing is finished yet, if you have found it, be prepeared for typos, spelling mistakes and links that go nowhere. 
 
 ## [Research](/research)
 
