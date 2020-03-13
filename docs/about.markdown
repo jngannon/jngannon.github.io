@@ -10,7 +10,7 @@ I am a self taught machine learning hobbyist. I studied maths years ago. I start
 
 # About My Research
 
-My research is whatever I find interesting, and can do on my home PC. Read about this in the blogs section. 
+My research is whatever I find interesting, and can do on my home PC. Read about why I do this in the blogs section, or abour specific experiments in the research section. I am also writing about failed experiments in the failed/fun section of this site.
 
 ### Contact Me
 
