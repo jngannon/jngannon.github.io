@@ -23,5 +23,5 @@ This blog looks at the output values of models used in blog 1. Outputs can be us
 
 ---
 
-## Pruning, cost functions and adversarial noise
+## [Pruning, cost functions and adversarial noise](/article_pruning)
 My first blog, where I have changed the cost function and pruned weights using 2 different methods.
