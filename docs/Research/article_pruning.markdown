@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pruning, cost functions and adversarial noise
+permalink: /article_pruning/
+---
+
 # Pruning, cost functions and adversarial noise.
 
 ## Introduction
